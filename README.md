@@ -31,22 +31,22 @@ It is designed for educational purposes, helping learners strengthen their under
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/ntainguyenit/open-source.git
+   git clone https://github.com/ntainguyenit/open-source.git
 ```
 
 2. **Navigate into the project folder**
 ```bash
-cd open-source
+   cd open-source
 ```
 
 3. **Start a local PHP server**
 ```bash
-php -S localhost:8000
+   php -S localhost:8000
 ```
 
 4. **Access the exercises in your browser**
 ```arduino
-http://localhost:8000/Lab1.php
+   http://localhost:8000/Lab1.php
 ```
 
 ---
