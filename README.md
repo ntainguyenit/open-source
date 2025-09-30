@@ -24,6 +24,8 @@ It is designed for educational purposes, helping learners strengthen their under
 - `form.php`
 - `layout.php`
 - `process_form.php`
+- `registration_form.php`
+- `process_registration_form.php`
 
 ---
 
